@@ -1,7 +1,7 @@
 Delighted to share my SQL project analysis approach! 
 Here are the key steps I follow to derive actionable insights and drive data-informed decisions based on Sales Retail Dataset between 2017 and 2019
-1) understanding data and make some editing like unpivoting some columns through power query in excel
-2) SSIS package transfers data from CSV files to database, streamlining extraction, transformation, and loading for efficient data integration and finally making relationships betweens tables in database
+1)understanding data and make some editing like unpivoting some columns through power query in excel
+2)SSIS package transfers data from CSV files to database, streamlining extraction, transformation, and loading for efficient data integration and finally making relationships betweens tables in database
 3)Data Exploration: Dive deep into the data, unraveling patterns, trends, and outliers. Understanding the data's nuances lays the foundation for meaningful analysis.
 4)Data Transformation: Transform raw data into a usable format. This step involves cleaning, aggregating, and structuring data, ensuring it's primed for in-depth analysis.
 5)SQL Code Analysis: Carefully crafted SQL queries are pivotal. I dissect and optimize SQL code, ensuring efficiency and accuracy. This step is where the magic happens, translating raw data into valuable information,Answer the following Questions:
