@@ -1,0 +1,42 @@
+StoreID,StoreType,StoreSize,StoreLocation
+16,STORETYPE:CORE,57197sqft,Vermont; USADivision
+7,STORETYPE:CORE,70713sqft,Wyoming; USADivision
+17,STORETYPE:CORE,93188sqft,Wisconsin; USADivision
+29,STORETYPE:CORE,93638sqft,Nebraska; USADivision
+35,STORETYPE:CORE,103681sqft,Nevada; USADivision
+12,STORETYPE:CORE,112238sqft,Oklahoma; USADivision
+23,STORETYPE:CORE,114533sqft,Michigan; USADivision
+22,STORETYPE:CORE,119557sqft,Pennsylvania; USADivision
+18,STORETYPE:CORE,120653sqft,Oregon; USADivision
+15,STORETYPE:CORE,123737sqft,Colorado; USADivision
+9,STORETYPE:CORE,125833sqft,New Mexico; USADivision
+10,STORETYPE:CORE,126512sqft,Texas; USADivision
+25,STORETYPE:CORE,128107sqft,South Dakota; USADivision
+21,STORETYPE:CORE,140167sqft,Delaware; USADivision
+1,STORETYPE:CORE,151315sqft,Kansas; USADivision
+26,STORETYPE:CORE,152513sqft,Montana; USADivision
+8,STORETYPE:CORE,155078sqft,New Jersey; USADivision
+40,STORETYPE:CORE,155083sqft,New Hampshire; USADivision
+34,STORETYPE:CORE,158114sqft,Illinois; USADivision
+39,STORETYPE:CORE,184109sqft,Arkansas; USADivision
+14,STORETYPE:CORE,200898sqft,Indiana; USADivision
+2,STORETYPE:CORE,202307sqft,Maryland; USADivision
+6,STORETYPE:CORE,202505sqft,Arizona; USADivision
+32,STORETYPE:CORE,203007sqft,Iowa; USADivision
+20,STORETYPE:CORE,203742sqft,Connecticut; USADivision
+31,STORETYPE:CORE,203750sqft,Missouri; USADivision
+19,STORETYPE:CORE,203819sqft,New York; USADivision
+24,STORETYPE:CORE,203819sqft,Utah; USADivision
+27,STORETYPE:DIGITAL,204184sqft,USA Division; Rhode Island
+4,STORETYPE:DIGITAL,205863sqft,USA Division; West Virginia
+28,STORETYPE:DIGITAL,206302sqft,USA Division; California
+11,STORETYPE:DIGITAL,207499sqft,USA Division; Louisiana
+13,STORETYPE:DIGITAL,219622sqft,USA Division; Washington
+5,STORETYPE:LOCAL,34875sqft,Tennessee; USADivision
+3,STORETYPE:LOCAL,37392sqft,Mississippi; USADivision
+33,STORETYPE:LOCAL,39690sqft,Florida; USADivision
+38,STORETYPE:LOCAL,39690sqft,North Carolina; USADivision
+36,STORETYPE:LOCAL,39910sqft,Alabama; USADivision
+37,STORETYPE:LOCAL,39910sqft,South Carolina; USADivision
+30,STORETYPE:LOCAL,42988sqft,Virginia; USADivision
+99,STORETYPE:OPS,,
